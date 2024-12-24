@@ -1,0 +1,15 @@
+
+# FVM Version Cache
+.fvm/
+
+# Flutter/Dart-specific
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+*.lock
+*.log
+.pub-cache/
+.pub/
+/build/
