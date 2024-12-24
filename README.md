@@ -39,7 +39,7 @@ Todo Firebase Demo is a Flutter application showcasing best practices and clean 
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/utsav-savani/todo-list-demo
    cd todo_firebase_demo
    ```
 
